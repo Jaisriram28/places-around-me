@@ -39,9 +39,7 @@ INDEX.HTML
             </font>
         </h1>
          <h3 align="center">
-        <font color="blue" face ="cursive">
-            MOHAMED ROSHAN S (212222040101)
-        </font>
+   
         </h3>
         <center>
             <img id="Image-Maps-Com-image-maps-2023-04-22-153849" src="/static/image/map.png" border="0" width="754" height="523" orgWidth="754" orgHeight="523" usemap="#image-maps-2023-04-22-153849" alt="" />
