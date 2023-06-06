@@ -74,7 +74,7 @@ SCHOOL.HTML
 <body >
 <h1 align="center">
     <font color="blue" face="cursive">
-        KENDHRA VIDHYALAYA
+        BHARATHIDHASANAR 
     </font>
 </h1>
 <p align="center">
